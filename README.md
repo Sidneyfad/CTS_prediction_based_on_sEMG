@@ -29,6 +29,13 @@
 
 常用的表面肌电特征分为时域特征和频域特征，如下表所示：
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Zero corssing  | Mean frequency  |
+| Slope sign change  | Median frequency  |
+| Wilson amplitude  | Peak frequency  |
+| Waveform length  |  |
+| Integrated EMG  |   |
+| Mean absolute value  |  |
+| Variance  |  |
+| Root-mean-square  |  |
