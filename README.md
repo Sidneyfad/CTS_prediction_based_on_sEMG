@@ -67,7 +67,7 @@
 
 <br>
 
-
+![image](https://github.com/Sidneyfad/CTS_prediction_based_on_sEMG/blob/main/images/psd.png)
 
 <br>
 
