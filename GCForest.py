@@ -1,4 +1,5 @@
 #!usr/bin/env python
+# implement of deep forest and improved deep forest.
 
 import itertools
 import numpy as np
