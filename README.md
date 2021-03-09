@@ -100,7 +100,7 @@
 
 <br>
 
-![image](https://github.com/Sidneyfad/CTS_prediction_based_on_sEMG/blob/main/images/级联森林.png)
+<div align=center>![image](https://github.com/Sidneyfad/CTS_prediction_based_on_sEMG/blob/main/images/级联森林.png)<div>
 
 <br>
 
